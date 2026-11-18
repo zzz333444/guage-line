@@ -1664,19 +1664,6 @@
    "group": "综合-本地JS"
   },
   {
-   "key": "hipy_js_TVB云播",
-   "name": "🎦TVB云播(drpy_t3)",
-   "type": 3,
-   "api": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "ext": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/js/TVB云播.js",
-   "jar": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
-   "group": "综合-本地JS"
-  },
-  {
    "key": "310直播",
    "name": "310｜看球",
    "type": 3,
@@ -1713,20 +1700,6 @@
    "api": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/shiguang/svip/heads/main/drpy_libs/drpy2.min.js",
    "ext": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/shiguang/svip/heads/main/js/恰瓜子.js",
    "jar": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/shiguang/svip/heads/main/svip.jar",
-   "group": "综合-本地JS"
-  },
-  {
-   "key": "六月听书",
-   "name": "📚️听书┃六月",
-   "type": 3,
-   "api": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api/drpy2.min.js",
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1
-   },
-   "ext": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/js/六月听书.js",
-   "jar": "https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
    "group": "综合-本地JS"
   },
   {
@@ -4982,7 +4955,7 @@
   },
   {
    "key": "小心御欲.py",
-   "name": "💥小心御欲💥",
+   "name": "🔞💥小心御欲💥",
    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/小心御欲.py",
    "filterable": 1,
    "quickSearch": 1,
@@ -6232,7 +6205,7 @@
   },
   {
    "key": "黑料弹幕版.py",
-   "name": "💥黑料弹幕版💥",
+   "name": "🔞💥黑料弹幕版💥",
    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/黑料弹幕版.py",
    "filterable": 1,
    "quickSearch": 1,
@@ -6820,7 +6793,7 @@
   },
   {
    "key": "818hlw",
-   "name": "💥818黑料网💥",
+   "name": "🔞💥818黑料网💥",
    "type": 3,
    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/818黑料网.py",
    "group": "其他"
@@ -6938,7 +6911,7 @@
   },
   {
    "key": "hl8888",
-   "name": "💥黑料不打💥",
+   "name": "🔞💥黑料不打💥",
    "type": 3,
    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/黑料不打烊.py",
    "group": "其他"
